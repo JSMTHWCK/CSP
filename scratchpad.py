@@ -1,3 +1,5 @@
-my_name = "JeffreySmithwick"
-print(my_name[:7])
-print(my_name[7:])
+#for any in class examples (not work)
+first = "test"
+last = "user"
+
+print("my name is " + first + " " + last )
